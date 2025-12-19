@@ -1,0 +1,5 @@
+default = "Movimiento Regeneraci\u00F3n Nacional"
+
+["Movimiento Regeneraci\u00F3n Nacional"]
+type = "DEMOCRACY"
+leader = ["Andr\u00E9s Manuel L\u00F3pez Obrador", 'M']

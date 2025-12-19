@@ -1,0 +1,12 @@
+# Army Information
+[Army]
+prefix="MEX"
+
+# Navy Information
+[Navy]
+prefix="ARM"
+names=""
+
+# Air Force Information
+[AirForce]
+prefix="FAM"

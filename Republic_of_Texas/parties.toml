@@ -1,0 +1,16 @@
+default = "Republican"
+
+[Republican]
+type = "REPUBLIC"
+leader = ["Greg Abbott", 'M']
+support = 52.10
+
+[Democrat]
+type = "DEMOCRACY"
+leader = ["Robert (Beto) F. O'Rourke", 'M']
+support = 46.44
+
+[Libertarian]
+type = "REPUBLIC"
+leader = ["Mark Tippetts", 'M']
+support = 1.55

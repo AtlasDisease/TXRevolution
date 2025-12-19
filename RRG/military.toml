@@ -1,0 +1,12 @@
+# Army Information
+[Army]
+prefix="RRGM"
+
+# Navy Information
+[Navy]
+prefix="RRGNS"
+names=""
+
+# Air Force Information
+[AirForce]
+prefix="RRGAF"

@@ -1,0 +1,12 @@
+# Army Information
+[Army]
+prefix="TXM"
+
+# Navy Information
+[Navy]
+prefix="TNS"
+names="Liberty/Invincible/Brutus/Independence/Potomac/Zavala/San Jacinto/San Bernard/Wharton/Austin/Archer/Louisville"
+
+# Air Force Information
+[AirForce]
+prefix="TXAF"

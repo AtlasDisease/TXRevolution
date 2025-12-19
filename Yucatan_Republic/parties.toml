@@ -1,0 +1,11 @@
+default = "Anti-Centralist"
+
+[Anti-Centralist]
+type = "REPUBLIC"
+leader = ["Santiago Méndez", 'M']
+support = 100
+
+[Centralist]
+type = "FASCIST"
+leader = ["Antonio López de Santa Anna", 'M']
+support = 0

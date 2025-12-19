@@ -1,0 +1,12 @@
+# Army Information
+[Army]
+prefix="RYM"
+
+# Navy Information
+[Navy]
+prefix="RYNS"
+names=""
+
+# Air Force Information
+[AirForce]
+prefix="RYAF"
